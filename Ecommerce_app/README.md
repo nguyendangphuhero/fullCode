@@ -6,12 +6,6 @@
 
 ## Sample Screenshots
 
-<table>
-  <tr>
-    <td><img src="/../screenshots/productList.png" width=270 height=480></td>
-    <td><img src="/../screenshots/shoppingCart.png" width=270 height=480></td>
-  </tr>
- </table>
 
 
 
