@@ -29,33 +29,7 @@ flutter doctor
 ```
 
 # Some UI Screens of the Application
-<table>
-  <tr>
-    <td>Application Login</td>
-     <td>Product Status</td>
-     <td>Product Stats</td>
-     <td>Application Drawer</td>
-  </tr>
-  <tr>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/Login.png"></td>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/DashboardTwo.png"></td>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/DashboardOne.png"></td>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/Drawer.png"></td>
-   
-  </tr>
-    <tr>
- <td>Approved Products</td>
-        <td>Product Categories</td>
-        <td>Sub Categories</td>
-        <td>Users</td>
-  </tr>
-  <tr>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/ApprovedProductList.png"></td>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/Categories.png"></td>
-    <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/SubCategories.png"></td>
-   <td valign="top"><img width="250" alt="portfolio_view" src="https://github.com/lxmirmsh1811/sellitAdmin/blob/master/ApplicationUI/Users.png"></td>
-  </tr>
- </table>
+
  
 # BackEnd API Documentation
 [Swagger UI](http://3.21.167.243:3000/api/v1/api-docs/) </br>
