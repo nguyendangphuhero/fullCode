@@ -27,16 +27,16 @@ JWT_EXPIRY_TIME=
 
 ```
 EMAIL_PORT=
-EMAIL_AUTH_USERNAME=ndphu2804@gmail.com
-EMAIL_AUTH_PASSWORD=27718592
+EMAIL_AUTH_USERNAME=
+EMAIL_AUTH_PASSWORD=
 EMAIL_FROM=
 ```
 
 - The api uploads images to cloudinary. [Create an account](https://cloudinary.com/) and pick configuration from the dashboard to fill below
 ```
-CLOUD_NAME=muonroimasaocon
-CLOUDINARY_API_KEY=377884716154477
-CLOUDINARY_API_SECRET=KaXTMmRYAU5pgDXSa-goskeQQEg
+CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
 ```
 
 - To facilitate facebook and google auth
@@ -75,9 +75,9 @@ BASE_URL=https://api.herokuapp.com/
 - You'll be prompted to create an account if you don't have one. The same applies to any site mentioned above.
 
 ```
-BRAINTREE_MERCHANT_ID=2c34stzd8dh7rzxb
-BRAINTREE_PUBLIC_KEY=xb4vq7dc6d5kmd96
-BRAINTREE_PRIVATE_KEY=fe6a0aa5736ecedaf6bddde990407611
+BRAINTREE_MERCHANT_ID=
+BRAINTREE_PUBLIC_KEY=
+BRAINTREE_PRIVATE_KEY=
 ```
 
 ## Run the API
